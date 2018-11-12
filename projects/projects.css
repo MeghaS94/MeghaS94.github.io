@@ -1,0 +1,114 @@
+a.projectbutton{
+	color: black;
+	font: 35px "futura-pt";	
+	display: block;
+	width: 425px;
+	height: 243px;
+	padding-top: 182px;
+}
+
+a.projectbutton2{
+	color: black;
+	font: 35px "futura-pt";	
+	display: block;
+	width: 425px;
+	height: 265px;
+	padding-top: 160px;
+}
+
+span.projecttitle {
+	background-color: white;
+	opacity: .5;
+}
+
+div.projectleftbar {
+	float:left;
+	text-align: center ;
+	width:425px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+}
+
+div.projectrightbar {
+	float:right;
+	width:425px;
+	text-align: center ;
+	margin-left: 50px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+}
+
+div.projectmenu {
+	margin-top: -25px;
+}
+
+div.projectrow {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width:900px;
+}
+
+div.projectimagerow {
+	margin-top: 25px;
+	margin-bottom: 15px;
+	float:center;
+}
+
+
+div.projecttextleftbar {
+	float:left;
+	text-align: left ;
+	width:425px;
+}
+
+div.projecttextrightbar {
+	float:right;
+	width:425px;
+	text-align: left ;
+	margin-left: 50px;
+}
+
+div.projecttextrow {
+	margin-top: 15px;
+	float:left;
+}
+
+div.caption {
+	padding-left:9px;
+	padding-right:9px;
+	text-align: center ;
+	font-size:14px;
+}
+
+#pups2011:hover{
+	background-position: 0 0;
+}
+
+div.newprojectheader{
+    color: #4b4b4b;
+    font: 24px "futura-pt"; 
+}
+
+div.newprojectleftbar {
+    float:left;
+    text-align: center ;
+    width:400px;
+}
+
+div.newprojectrightbar {
+    float:right;
+    width:450px;
+    margin-left: 50px;
+    text-align: left ;
+}
+
+div.newprojectrow {
+    float:left;
+    margin-bottom: 50px;
+}
+
+.downloads p{
+    margin: 0;
+    padding: 0;
+    margin-left: 50px;
+}
