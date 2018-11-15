@@ -2,7 +2,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font: 17px "proxima-nova", Arial, Verdana, Helvetica, sans-serif;
+	font: 15px "proxima-nova", Arial, Verdana, Helvetica, sans-serif;
 	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	color: white;
 	text-align: left;
@@ -101,6 +101,7 @@ a.nav:active {
 
 .topmenubar .topmenu {
 	font: 20px "futura-pt";
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	font-weight: 300;
 	text-align: right ;
 	margin-top: -29px;
@@ -163,7 +164,7 @@ div.title{
 
 div.subtitle{
 	color: #4b4b4b;
-	font: 22px "futura-pt";	
+	font: 20px "futura-pt";	
 	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 }
 
