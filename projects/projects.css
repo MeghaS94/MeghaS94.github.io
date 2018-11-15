@@ -83,6 +83,7 @@ div.caption {
 div.newprojectheader{
     color: #4b4b4b;
     font: 24px "futura-pt"; 
+    font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif"
 }
 
 div.newprojectleftbar {
