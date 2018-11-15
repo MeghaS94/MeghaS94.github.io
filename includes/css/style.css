@@ -3,6 +3,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font: 17px "proxima-nova", Arial, Verdana, Helvetica, sans-serif;
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	color: white;
 	text-align: left;
 /* 	margin-top: 130px; */
@@ -85,12 +86,14 @@ a.nav:active {
 
 .topmenubar .yiningkarlli {
 	font: 60px "futura-pt";
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	font-weight: 500;
 	margin-top: -5px;
 }
 
 .topmenubar .codeandvisuals {
 	font: 30px "futura-pt";
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	font-weight: 500;
 	margin-left: 80px;
 	margin-top: -18px;
@@ -119,6 +122,7 @@ a.nav:active {
 
 .topmenubar-hover .codeandvisuals {
 	font: 0px "futura-pt";
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	font-weight: 0;
 }
 
@@ -134,6 +138,7 @@ a.nav:active {
 
 .topmenubar-hover .topmenu {
 	font: 20px "futura-pt";
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	font-weight: 300;
 	text-align: right ;
 	margin-top: -30px;
@@ -141,6 +146,7 @@ a.nav:active {
 
 .topmenubar-hover .yiningkarlli {
 	font: 30px "futura-pt";
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	font-weight: 500;
 	margin-top: -2.5px;
 }
@@ -152,10 +158,12 @@ div.topbar-s {
 div.title{
 	color: #4b4b4b;
 	font: 32px "futura-pt";	
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 }
 
 div.subtitle{
 	color: #4b4b4b;
 	font: 22px "futura-pt";	
+	font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 }
 

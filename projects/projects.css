@@ -1,6 +1,7 @@
 a.projectbutton{
 	color: black;
-	font: 35px "futura-pt";	
+    font: 35px "futura-pt";	
+    font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	display: block;
 	width: 425px;
 	height: 243px;
@@ -9,7 +10,8 @@ a.projectbutton{
 
 a.projectbutton2{
 	color: black;
-	font: 35px "futura-pt";	
+    font: 35px "futura-pt";	
+    font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 	display: block;
 	width: 425px;
 	height: 265px;
@@ -83,7 +85,7 @@ div.caption {
 div.newprojectheader{
     color: #4b4b4b;
     font: 24px "futura-pt"; 
-    font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif"
+    font-family: "futura-pt","Trebuchet", "MS", "Arial", "sans-serif";
 }
 
 div.newprojectleftbar {
